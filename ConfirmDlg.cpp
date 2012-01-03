@@ -1,0 +1,6 @@
+// ConfirmDlg.cpp : Implementation of CConfirmDlg
+#include "stdafx.h"
+#include "ConfirmDlg.h"
+
+/////////////////////////////////////////////////////////////////////////////
+// CConfirmDlg
